@@ -12,9 +12,9 @@ The course folder is linked as `course`. This is a recommendation, obviously, an
 
 When using `direnv`, the virtualenv environment is setup and activated upon accessing the directory.
 
-Additionally, you'll need to install the requirements (see below about **GraphLab Create**)
-
 `pip install -r requirements.txt`
+
+Additionally, you'll need to install the requirements (see below about **GraphLab Create**)
 
 ## GraphLab Create
 
