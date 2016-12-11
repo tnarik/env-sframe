@@ -2,7 +2,13 @@
 
 This environment includes **GraphLab Create** and **SFrame** to support the [Coursera Machine Learging specialization](https://www.coursera.org/specializations/machine-learning) which I am tracking as the `course-coursera-Washington_machine_learning` repository.
 
-## DirEnv
+## The course
+
+The course notebooks, code and documentation is tracked in its own repository. To simplify reusability (and because of the way Direnv works, which doesn't sit well with Dropbox and sharing the environment across multiple computers with different versions of macOS), the course is shared, the environment is not (it is synchronized via GIT).
+
+The course folder is linked as `course`. This is a recommendation, obviously, and you can do as you please.
+
+## Direnv
 
 When using `direnv`, the virtualenv environment is setup and activated upon accessing the directory.
 
