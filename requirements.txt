@@ -1,10 +1,8 @@
 jupyter==1.0.0
+matplotlib==1.5.3
+
 #pandas==0.19.1
 #
 ## To read Excel files
 #xlrd==1.0.0
-#matplotlib==1.5.3
 #scipy==0.18.1#
-
-
-https://get.graphlab.com/GraphLab-Create/2.1/<user>/<license key>/GraphLab-Create-License.tar.gz
